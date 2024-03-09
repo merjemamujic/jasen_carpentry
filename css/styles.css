@@ -8136,6 +8136,10 @@ textarea.form-control-lg {
   opacity: 0.6;
 }
 
+.bg-section-new{
+  background-image: url("../assets/img/bg6.jpg");
+}
+
 .bg-secondary {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-secondary-rgb), var(--bs-bg-opacity)) !important;
